@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/image/3/context.json",
-  "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif-img/05036",
+  "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/05036",
   "type": "ImageService3",
   "profile": "level0",
   "protocol": "http://iiif.io/api/image",
