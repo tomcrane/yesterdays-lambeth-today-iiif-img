@@ -1,0 +1,82 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/14369_DSC_0057A/manifest.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "C:\\Users\\TomCrane\\Dropbox\\personal\\Lambeth Archives\\220825_Exhibition Lambeth Archives 2208\\Exhibition Layouts 220825 Links\\14369_DSC_0057A.jpg"
+    ]
+  },
+  "items": [
+    {
+      "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/14369_DSC_0057A/canvas",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "single canvas for C:\\Users\\TomCrane\\Dropbox\\personal\\Lambeth Archives\\220825_Exhibition Lambeth Archives 2208\\Exhibition Layouts 220825 Links\\14369_DSC_0057A.jpg"
+        ]
+      },
+      "width": 3264,
+      "height": 4928,
+      "items": [
+        {
+          "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/14369_DSC_0057A/page",
+          "type": "AnnotationPage",
+          "label": {
+            "en": [
+              "single anno page for C:\\Users\\TomCrane\\Dropbox\\personal\\Lambeth Archives\\220825_Exhibition Lambeth Archives 2208\\Exhibition Layouts 220825 Links\\14369_DSC_0057A.jpg"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/14369_DSC_0057A/painting",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/14369_DSC_0057A/full/1060,1600/0/default.jpg",
+                "type": "Image",
+                "width": 1060,
+                "height": 1600,
+                "format": "image/jpg",
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/14369_DSC_0057A",
+                    "type": "ImageService3",
+                    "profile": "level0",
+                    "protocol": "http://iiif.io/api/image",
+                    "width": 3264,
+                    "height": 4928,
+                    "sizes": [
+                      {"width":66,"height":100},
+                      {"width":132,"height":200},
+                      {"width":265,"height":400},
+                      {"width":500,"height":754},
+                      {"width":662,"height":1000},
+                      {"width":1060,"height":1600}
+                    ],
+                    "tiles": [
+                      {
+                        "width": 512,
+                        "scaleFactors": [
+                          1,
+                          2,
+                          4,
+                          8,
+                          16
+                        ]
+                      }
+                    ],
+                    "preferredFormats": ["webp"],
+                    "extraFormats": ["webp"]
+                  }
+                ]
+              },
+              "target": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/14369_DSC_0057A/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
