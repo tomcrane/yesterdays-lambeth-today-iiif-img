@@ -1,0 +1,30 @@
+{
+  "@context": "http://iiif.io/api/image/3/context.json",
+  "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/10758",
+  "type": "ImageService3",
+  "profile": "level0",
+  "protocol": "http://iiif.io/api/image",
+  "width": 2965,
+  "height": 2847,
+  "sizes": [
+    {"width":100,"height":96},
+    {"width":200,"height":192},
+    {"width":400,"height":384},
+    {"width":500,"height":480},
+    {"width":1000,"height":960},
+    {"width":1600,"height":1536}
+  ],
+  "tiles": [
+    {
+      "width": 512,
+      "scaleFactors": [
+        1,
+        2,
+        4,
+        8
+      ]
+    }
+  ],
+  "preferredFormats": ["webp"],
+  "extraFormats": ["webp"]
+}
