@@ -1,13 +1,13 @@
 <?xml version="1.0"?>
-<image xmlns="http://www.vips.ecs.soton.ac.uk//dzsave" date="2025-08-10T17:24:44.987227+01" version="8.17.0">
+<image xmlns="http://www.vips.ecs.soton.ac.uk//dzsave" date="2025-08-10T17:26:15.497160+01" version="8.17.0">
   <properties>
     <property>
       <name>width</name>
-      <value type="gint">3238</value>
+      <value type="gint">2917</value>
     </property>
     <property>
       <name>height</name>
-      <value type="gint">2717</value>
+      <value type="gint">2893</value>
     </property>
     <property>
       <name>bands</name>
@@ -35,11 +35,7 @@
     </property>
     <property>
       <name>jpeg-multiscan</name>
-      <value type="gint">1</value>
-    </property>
-    <property>
-      <name>interlaced</name>
-      <value type="gint">1</value>
+      <value type="gint">0</value>
     </property>
     <property>
       <name>jpeg-chroma-subsample</name>
@@ -71,7 +67,7 @@
     </property>
     <property>
       <name>exif-ifd0-DateTime</name>
-      <value type="VipsRefString">2009:05:26 17:02:01 (2009:05:26 17:02:01, ASCII, 20 components, 20 bytes)</value>
+      <value type="VipsRefString">2011:02:22 12:27:15 (2011:02:22 12:27:15, ASCII, 20 components, 20 bytes)</value>
     </property>
     <property>
       <name>exif-ifd1-Compression</name>
@@ -95,11 +91,11 @@
     </property>
     <property>
       <name>exif-ifd2-PixelXDimension</name>
-      <value type="VipsRefString">3238 (3238, Long, 1 components, 4 bytes)</value>
+      <value type="VipsRefString">2917 (2917, Long, 1 components, 4 bytes)</value>
     </property>
     <property>
       <name>exif-ifd2-PixelYDimension</name>
-      <value type="VipsRefString">2717 (2717, Long, 1 components, 4 bytes)</value>
+      <value type="VipsRefString">2893 (2893, Long, 1 components, 4 bytes)</value>
     </property>
     <property>
       <name>exif-ifd2-ExifVersion</name>
